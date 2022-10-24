@@ -7,7 +7,7 @@ require "simple_discussion/forum_user"
 require "simple_discussion/slack"
 require "simple_discussion/version"
 # require "simple_discussion/will_paginate"
-require "lib/kaminari/helpers/tag"
+require "kaminari/helpers/tag"
 
 module SimpleDiscussion
   # Define who owns the subscription
