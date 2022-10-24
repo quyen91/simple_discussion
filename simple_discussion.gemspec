@@ -23,5 +23,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "font-awesome-sass", ">= 5.13.0"
   spec.add_dependency "friendly_id", ">= 5.2.0"
   spec.add_dependency "rails", ">= 4.2"
-  spec.add_dependency "will_paginate", ">= 3.1.0"
+  spec.add_dependency "kaminari"
 end
